@@ -1,4 +1,0 @@
-[build]
-  publish = "."
-
-# Es una página estática: Netlify solo debe servir estos archivos tal como están.
